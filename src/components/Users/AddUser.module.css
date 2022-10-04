@@ -34,7 +34,8 @@
     background: skyblue;
     border: none;
     border-radius: 5px;
-    box-shadow: 0 0 20px wheat;;
+    box-shadow: 0 0 20px wheat;
+    margin-top: 20px;
 
 }
 
