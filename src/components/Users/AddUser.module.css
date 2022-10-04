@@ -28,18 +28,3 @@
     background-color: rgb(224, 224, 224);
 }
 
-.input button{
-    width: 10rem;
-    height: 2rem;
-    background: skyblue;
-    border: none;
-    border-radius: 5px;
-    box-shadow: 0 0 20px wheat;
-    margin-top: 20px;
-
-}
-
-.input button:hover{
-    background: wheat;
-    color: white;
-}
