@@ -1,0 +1,44 @@
+.input {
+  margin: 2rem auto;
+  padding: 2rem;
+  width: 90%;
+  max-width: 40rem;
+}
+
+.input label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.input input {
+  font: inherit;
+  display: block;
+  width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+
+.input input:focus {
+    outline: none;
+    border-color: #4f005f;
+    background-color: rgb(224, 224, 224);
+}
+
+.input button{
+    width: 10rem;
+    height: 2rem;
+    background: skyblue;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 0 20px wheat;;
+
+}
+
+.input button:hover{
+    background: wheat;
+    color: white;
+}
